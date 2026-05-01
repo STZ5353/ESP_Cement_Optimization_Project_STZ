@@ -1,5 +1,4 @@
-# ESP_Cement_Optimization_Project_STZ
-This is a private repository for STZ5353
+# ESP_Cement_Optimization_Project
 
 > 水泥烧成系统电除尘器协同优化控制数学建模工程  
 > A mathematical modeling project for collaborative optimization control of an Electrostatic Precipitator in a cement kiln system.

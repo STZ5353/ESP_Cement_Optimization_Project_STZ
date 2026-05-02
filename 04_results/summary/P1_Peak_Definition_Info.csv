@@ -1,0 +1,2 @@
+ValidCount,PeakPointCount,PeakPointRatio_percent,PeakEventCount,PeakEventRatio_percent,ResidualThreshold,RobustZThreshold,MinGap_min
+10029,301,3.00129624090139,91,0.907368630970186,0.0500000000000016,1.5,5
